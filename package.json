@@ -51,6 +51,7 @@
     "buffer": "^6.0.3",
     "copy-webpack-plugin": "6",
     "parcel": "^2.0.1",
+    "parcel-reporter-static-files-copy": "^1.5.3",
     "posthtml-include": "^1.7.2",
     "process": "^0.11.10"
   },

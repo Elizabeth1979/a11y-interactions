@@ -7,5 +7,6 @@
         "@parcel/transformer-react-refresh-wrap"
         ]
     },
-    "resolvers": ["@parcel/resolver-glob", "..."]
+    "resolvers": ["@parcel/resolver-glob", "..."],
+    "reporters":  ["...", "parcel-reporter-static-files-copy"]
 }
